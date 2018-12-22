@@ -12,6 +12,5 @@ public class HomeActivity extends AppCompatActivity {
 
         getSupportActionBar().setTitle("Dashboard");
         getSupportActionBar().setHomeAsUpIndicator(R.drawable.menu);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 }
